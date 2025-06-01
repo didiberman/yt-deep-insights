@@ -1,0 +1,8 @@
+streamlit
+pandas
+markdown
+google-api-python-client
+google-generativeai
+youtube-transcript-api
+streamlit-cookies-manager
+tiktoken

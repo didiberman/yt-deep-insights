@@ -1,0 +1,11 @@
+# Production Deployment Directory Structure
+
+/your-app-root/
+├── backend/
+│   ├── main.py
+│   ├── requirements.txt
+│   ├── .env
+│   └── dist/                # Frontend build output (from React)
+│       ├── index.html
+│       ├── assets/
+│       └── ... 
