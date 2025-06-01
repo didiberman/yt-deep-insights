@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a Streamlit-based web application designed to assist psychological research by fetching and analyzing data from YouTube videos. It retrieves video transcripts and comments and utilizes various language models via the OpenRouter API for potential analysis or summarization tasks.
+This Streamlit-based web application is designed to help content creators and researchers understand real user feedback and content patterns from YouTube videos. By fetching and analyzing video transcripts and comments using various language models via the OpenRouter API, the tool provides insights that enable you to create more effective and targeted content.
 
 ## Features
 
